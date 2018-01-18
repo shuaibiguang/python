@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="1868">
+<author>zhengpengcheng</author>
+<date>2018-01-15T11:01:55.681295Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/advanced/merchant/modules/qyjm/controllers/OfflineCashController.php</path>
+<path
+   kind="file"
+   action="M">/advanced/merchant/themes/classic/modules/qyjm/views/offline-cash/index.php</path>
+</paths>
+<msg>修改 查看历史提现单据时的bug</msg>
+</logentry>
+</log>
